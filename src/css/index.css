@@ -1,0 +1,8 @@
+body {
+    background-color: beige;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#satdemo {
+    min-height: 500px;
+}
